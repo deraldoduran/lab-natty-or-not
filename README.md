@@ -21,18 +21,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+#fiz um card para Instagram usando o prompt 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+fiz um card para Instagram usando o prompt(crie uma renderização digital 3D em alta resolução, ultra realista de um cartão futurista do instagram), no Copilot
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Postei uma foto e dei a seguinte ordem(crie uma renderização digital 3D em alta resolução, ultra realista de um cartão futurista do instagram)
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[IA image](https://github.com/user-attachments/assets/87bd8f6d-06a7-4b38-b76c-9ac2d195f91e)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -40,7 +43,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK](/exemplos/E-BOOK.md)!
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
